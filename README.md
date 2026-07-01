@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=vj0246&color=blue&style=flat-square&label=PROFILE+VIEWS" height="20"/>
+
 <div align="center">
 
 # Hey, I'm Vivaan! 👋
@@ -8,19 +10,15 @@
 <a href="https://instagram.com/vivaan.jainn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
 <a href="mailto:vivaan.jain246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vj0246&color=blue&style=for-the-badge&label=PROFILE+VIEWS" height="28"/>
-
 </div>
 
-Hi, I'm Vivaan Jain — a Data Science & AI/ML builder exploring **agentic systems**, **fintech/quant research**, and **GenAI/RAG**. I like almost every layer of the stack, from research papers down to shipped products. Currently a B.Tech Computer Engineering student (Honours, Data Science) at DJSCE Mumbai, and a Full-Stack Engineering Intern at Zeex AI.
+Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade systems. My priorities in order are agentic AI, fintech, and generative AI, though I enjoy almost every layer of the AI/ML stack from research to deployment. Currently a B.Tech Computer Engineering student at DJSCE Mumbai and a Full Stack Engineering Intern at Zeex AI.
 
-- 🌱 Pursuing B.Tech in Computer Engineering (Honours, Data Science) at Dwarkadas J. Sanghvi College of Engineering
-- 💼 Currently: Full-Stack Engineering Intern @ Zeex AI — built production-grade audio intelligence pipelines, end-to-end (Apr–Jun 2026)
-- 🔬 Researcher: ACM credit-scoring work (cost-sensitive deep learning, explainable risk models)
-- 🤖 Enthusiast: agentic systems, fintech, GenAI — open to collaborating across any of these
-- 💬 Ask me about: RAG pipelines, multi-agent systems, or transformer-based market forecasting
+- 🌱 Pursuing B.Tech in Computer Engineering (Honours) at Dwarkadas J. Sanghvi College of Engineering
+- 💼 Currently Full Stack Engineering Intern at Zeex AI, building production grade audio intelligence pipelines end to end (Apr to Jun 2026)
+- 🔬 Researcher: ACM credit scoring work on cost sensitive deep learning and explainable risk models
+- 🤖 Priorities: agentic AI first, fintech second, generative AI third, all shipped as production grade systems
+- 💬 Ask me about: multi agent systems, RAG pipelines, or transformer based market forecasting
 - 📫 Reach me: [vivaan.jain246@gmail.com](mailto:vivaan.jain246@gmail.com)
 
 ---
@@ -50,7 +48,7 @@ Hi, I'm Vivaan Jain — a Data Science & AI/ML builder exploring **agentic syste
 | Project | What it does | Stack |
 |---|---|---|
 | **[Multi-Horizon Transformer](https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting)** | Custom Transformer predicting Nifty 50 direction across 20 horizons, 18+ yrs of OHLCV, evaluated on Sharpe & IC | `TensorFlow` `FinBERT` `XGBoost` |
-| **[MindVault](https://github.com/vj0246/MindVault)** | Full-stack AI RAG app — retrieval, reranking, vector search | `FastAPI` `Next.js` `pgvector` `Groq` |
+| **[MindVault](https://github.com/vj0246/MindVault)** | Full-stack AI RAG app, retrieval, reranking, vector search | `FastAPI` `Next.js` `pgvector` `Groq` |
 | **[AuditMind AI](https://github.com/vj0246/auditmind-ai)** | Multilingual audio intelligence pipeline, 13 Indian languages | `Whisper` `SpeechBrain` `Python` |
 | **[ApplyPilot AI](https://github.com/vj0246/ApplyPilot-AI)** | Autonomous job-application agent on LangGraph, deployed on K8s | `LangGraph` `Kubernetes` |
 | **[NSE Multi-Agent Demo](https://github.com/vj0246/nse-multi-agent-demo)** | Three-agent finance system: HITL, ReAct chat, multi-agent desk | `FastAPI` `React` `LangGraph` `Groq` |
