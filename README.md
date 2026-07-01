@@ -1,27 +1,66 @@
-# 💫 About Me:
-I'm an aspiring Data Scientist & ML Engineer driven by how data transforms into insights and impactful solutions. With a background in Computer Engineering, I’ve built strong fundamentals in Python, C++, NumPy, and Pandas, and enjoy using them to analyze, visualize, and understand data in smarter, more creative ways.<br><br>Beyond coding, I’m passionate about research, optimization, strategy, and startups. I love exploring new ideas, experimenting, and learning how technology improves decision-making and processes.
+# Hey, I'm Vivaan! 👋
 
+[![Vivaan | LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg)](https://www.linkedin.com/in/vivaan-jain-398160279)
+[![Vivaan | Instagram](https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png)](https://instagram.com/vivaan.jainn)
+[![Vivaan | Medium](https://www.svgrepo.com/show/354024/medium-icon.svg)](https://medium.com/@vivaan.jain246)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivaan.jainn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaan-jain-398160279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vivaan.jain246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivaan.jain246@gmail.com) 
+[![Profile Views](https://komarev.com/ghpvc/?username=vj0246)](https://github.com/vj0246)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vj0246&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vj0246&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vj0246&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi, I'm Vivaan Jain — a Data Science & AI/ML builder exploring **agentic systems**, **fintech/quant research**, and **GenAI/RAG**. I like almost every layer of the stack, from research papers down to shipped products. Currently a B.Tech Computer Engineering student (Honours, Data Science) at DJSCE Mumbai, and a Full-Stack Engineering Intern at Zeex AI.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vj0246&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vj0246&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🌱 Pursuing B.Tech in Computer Engineering (Honours, Data Science) at Dwarkadas J. Sanghvi College of Engineering
+- 💼 Currently: Full-Stack Engineering Intern @ Zeex AI — built production-grade audio intelligence pipelines, end-to-end (Apr–Jun 2026)
+- 🔬 Researcher: ACM credit-scoring work (cost-sensitive deep learning, explainable risk models)
+- 🤖 Enthusiast: agentic systems, fintech, GenAI — open to collaborating across any of these
+- 💬 Ask me about: RAG pipelines, multi-agent systems, or transformer-based market forecasting
+- 📫 Reach me: [vivaan.jain246@gmail.com](mailto:vivaan.jain246@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vj0246&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+[![My Skills](https://skill-icons.vercel.app/icons?i=python,cpp,c,java,mysql,tensorflow,pytorch,scikitlearn,huggingface,langchain,fastapi,nextjs,flask,supabase,postgres,docker,kubernetes,aws,vercel,git,githubactions,figma,latex,js&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📅 3D Contribution Calendar
+
+[![3D Contribution Graph](https://github.com/vj0246/vj0246/raw/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/vj0246/vj0246/blob/main/profile-3d-contrib/profile-night-green.svg)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vj0246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vj0246&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vj0246&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
+
+---
+
+## 📌 Pinned Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Multi-Horizon Transformer](https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting)** | Custom Transformer predicting Nifty 50 direction across 20 horizons, 18+ yrs of OHLCV, evaluated on Sharpe & IC | `TensorFlow` `FinBERT` `XGBoost` |
+| **[MindVault](https://github.com/vj0246/MindVault)** | Full-stack AI RAG app — retrieval, reranking, vector search | `FastAPI` `Next.js` `pgvector` `Groq` |
+| **[AuditMind AI](https://github.com/vj0246/auditmind-ai)** | Multilingual audio intelligence pipeline, 13 Indian languages | `Whisper` `SpeechBrain` `Python` |
+| **[ApplyPilot AI](https://github.com/vj0246/ApplyPilot-AI)** | Autonomous job-application agent on LangGraph, deployed on K8s | `LangGraph` `Kubernetes` |
+| **[NSE Multi-Agent Demo](https://github.com/vj0246/nse-multi-agent-demo)** | Three-agent finance system: HITL, ReAct chat, multi-agent desk | `FastAPI` `React` `LangGraph` `Groq` |
+| **[Text Sentiment Classification](https://github.com/vj0246/Text-Sentiment-Classification-System)** | NLP sentiment classification pipeline | `Python` `scikit-learn` |
+
+---
+
+## 🔥 Contribution Snake
+
+![snake gif](https://github.com/vj0246/vj0246/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivaan-jain-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaan-jain-398160279)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vivaan.jain246)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaan.jain246@gmail.com)
+
+</div>
