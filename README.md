@@ -25,7 +25,7 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 ## 🛠 Tech Stack
 
-<img src="https://skill-icons.vercel.app/icons?i=python,cpp,c,java,mysql,tensorflow,pytorch,scikitlearn,huggingface,langchain,fastapi,nextjs,flask,supabase,postgres,docker,kubernetes,aws,vercel,git,githubactions,figma,latex,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,tensorflow,pytorch,sklearn,huggingface,langchain,fastapi,nextjs,flask,supabase,postgres,docker,kubernetes,aws,vercel,git,githubactions,figma,latex,js&theme=dark"/>
 
 ---
 
