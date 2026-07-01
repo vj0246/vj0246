@@ -53,7 +53,7 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 <td><a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg?v=3"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/vj0246/FinIngest"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/FinIntel"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=4"/></a></td>
 <td><a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg?v=3"/></a></td>
 </tr>
 <tr>

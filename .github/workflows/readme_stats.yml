@@ -41,11 +41,11 @@ jobs:
           path: profile/pin-mindvault.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate FinIngest pin
+      - name: Generate FinIntel pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=FinIngest&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=FinIntel&theme=tokyonight&hide_border=true
           path: profile/pin-financial.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
