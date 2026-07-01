@@ -17,8 +17,8 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 - 🌱 Pursuing B.Tech in Computer Engineering (Honours) at Dwarkadas J. Sanghvi College of Engineering
 - 💼 Currently Full Stack Engineering Intern at Zeex AI, building production grade audio intelligence pipelines end to end (Apr to Jun 2026)
 - 🔬 Researcher: ACM credit scoring work on cost sensitive deep learning and explainable risk models
-- 🤖 Priorities: agentic AI first, fintech second, generative AI third, all shipped as production grade systems
-- 💬 Ask me about: multi agent systems, RAG pipelines, or transformer based market forecasting
+- 🤖 Interests, in order: agentic AI, fintech, generative AI, all shipped as production grade systems
+- 💬 Ask me about: multi agent systems, RAG pipelines, or anything in fintech and quant
 - 📫 Reach me: [vivaan.jain246@gmail.com](mailto:vivaan.jain246@gmail.com)
 
 ---
