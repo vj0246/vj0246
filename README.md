@@ -2,13 +2,15 @@
 
 # Hey, I'm Vivaan! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaan-jain-398160279)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivaan-jain-portfolio.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vivaan.jain246)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vivaan.jainn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaan.jain246@gmail.com)
+<a href="https://www.linkedin.com/in/vivaan-jain-398160279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+<a href="https://vivaan-jain-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a>
+<a href="https://medium.com/@vivaan.jain246"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a>
+<a href="https://instagram.com/vivaan.jainn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
+<a href="mailto:vivaan.jain246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vj0246&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vj0246&color=blue&style=for-the-badge&label=PROFILE+VIEWS" height="28"/>
 
 </div>
 
