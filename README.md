@@ -43,6 +43,8 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vj0246&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vj0246&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8)
 
+<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/metrics.svg"/>
+
 ---
 
 ## 📌 Pinned Projects
