@@ -4,6 +4,8 @@
 
 # Hey, I'm Vivaan! 👋
 
+<a href="https://github.com/vj0246"><img src="https://readme-typing-svg.demolab.com/?lines=Agentic+AI+first;Fintech+%2F+Quant;Generative+AI+%2F+RAG;Production+grade+systems&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22&pause=1000"/></a>
+
 <a href="https://www.linkedin.com/in/vivaan-jain-398160279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 <a href="https://vivaan-jain-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a>
 <a href="https://medium.com/@vivaan.jain246"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a>
@@ -41,18 +43,18 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vj0246&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vj0246&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
 
+<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/metrics.svg"/>
+
 ---
 
 ## 📌 Pinned Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[ApplyPilot AI](https://github.com/vj0246/ApplyPilot-AI)** | Autonomous job application agent on LangGraph, deployed on K8s | `LangGraph` `Kubernetes` |
-| **[MindVault](https://github.com/vj0246/MindVault)** | Full stack AI RAG app, retrieval, reranking, vector search | `FastAPI` `Next.js` `pgvector` `Groq` |
-| **[FinIntel](https://github.com/vj0246/nse-multi-agent-demo)** | Three agent finance system: HITL, ReAct chat, multi agent desk | `FastAPI` `React` `LangGraph` `Groq` |
-| **[AuditMind AI](https://github.com/vj0246/auditmind-ai)** | Multilingual audio intelligence pipeline, 13 Indian languages | `Whisper` `SpeechBrain` `Python` |
-| **[Multi-Horizon Transformer](https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting)** | Custom Transformer predicting Nifty 50 direction across 20 horizons, 18+ yrs of OHLCV, evaluated on Sharpe & IC | `TensorFlow` `FinBERT` `XGBoost` |
-| **[Text Sentiment Classification](https://github.com/vj0246/Text-Sentiment-Classification-System)** | NLP sentiment classification pipeline | `Python` `scikit-learn` |
+<a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=ApplyPilot-AI&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/vj0246/MindVault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=MindVault&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/vj0246/FinIntel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=FinIntel&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/vj0246/auditmind-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=auditmind-ai&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=Text-Sentiment-Classification-System&theme=tokyonight&hide_border=true"/></a>
 
 ---
 
