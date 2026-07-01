@@ -41,23 +41,23 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 ![](https://github-readme-stats.vercel.app/api?username=vj0246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vj0246&theme=tokyonight&hide_border=true)
-<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/top-langs.svg?v=2"/>
-
-<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/metrics.svg"/>
+<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/top-langs.svg?v=3"/>
 
 ---
 
 ## 📌 Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg"/></a>
-<a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg"/></a>
-
-<a href="https://github.com/vj0246/FinIngest"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=2"/></a>
-<a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg"/></a>
-
-<a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg"/></a>
-<a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg"/></a>
-
-</div>
+<table>
+<tr>
+<td><a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg?v=3"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/vj0246/FinIngest"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg?v=3"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg?v=3"/></a></td>
+</tr>
+</table>
