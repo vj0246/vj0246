@@ -41,7 +41,7 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 ![](https://github-readme-stats.vercel.app/api?username=vj0246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vj0246&theme=tokyonight&hide_border=true)
-<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/top-langs.svg?v=3"/>
+<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/top-langs.svg?v=5"/>
 
 ---
 
@@ -49,15 +49,15 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 <table>
 <tr>
-<td><a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg?v=3"/></a></td>
-<td><a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg?v=5"/></a></td>
+<td><a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg?v=5"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/vj0246/FinIntel"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=4"/></a></td>
-<td><a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/FinIntel"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=5"/></a></td>
+<td><a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg?v=5"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg?v=3"/></a></td>
-<td><a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg?v=3"/></a></td>
+<td><a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg?v=5"/></a></td>
+<td><a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg?v=5"/></a></td>
 </tr>
 </table>
