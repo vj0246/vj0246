@@ -15,7 +15,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -26,7 +25,10 @@ jobs:
 
       - name: push to output branch
         run: |
-          cd dist
+          rm -rf /tmp/deploy
+          mkdir -p /tmp/deploy
+          cp -r dist/* /tmp/deploy/
+          cd /tmp/deploy
           git init
           git checkout -b output
           git config user.name github-actions
