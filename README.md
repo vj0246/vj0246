@@ -41,7 +41,7 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 ![](https://github-readme-stats.vercel.app/api?username=vj0246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vj0246&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vj0246&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8)
+<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/top-langs.svg"/>
 
 <img src="https://raw.githubusercontent.com/vj0246/vj0246/main/metrics.svg"/>
 
@@ -51,13 +51,13 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 <div align="center">
 
-<a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=ApplyPilot-AI&theme=tokyonight&hide_border=true&cache_seconds=86400"/></a>
-<a href="https://github.com/vj0246/MindVault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=MindVault&theme=tokyonight&hide_border=true&cache_seconds=86400"/></a>
+<a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg"/></a>
+<a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg"/></a>
 
-<a href="https://github.com/vj0246/financial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=financial&theme=tokyonight&hide_border=true&cache_seconds=86400"/></a>
-<a href="https://github.com/vj0246/auditmind-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=auditmind-ai&theme=tokyonight&hide_border=true&cache_seconds=86400"/></a>
+<a href="https://github.com/vj0246/financial"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg"/></a>
+<a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg"/></a>
 
-<a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting&theme=tokyonight&hide_border=true&cache_seconds=86400"/></a>
-<a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vj0246&repo=Text-Sentiment-Classification-System&theme=tokyonight&hide_border=true&cache_seconds=86400"/></a>
+<a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg"/></a>
+<a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg"/></a>
 
 </div>

@@ -1,0 +1,82 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "30 8 * * *"   # daily 08:30 UTC = 2 PM IST
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate ApplyPilot AI pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ApplyPilot-AI&theme=tokyonight&hide_border=true
+          path: profile/pin-applypilot.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate MindVault pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=MindVault&theme=tokyonight&hide_border=true
+          path: profile/pin-mindvault.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate financial pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=financial&theme=tokyonight&hide_border=true
+          path: profile/pin-financial.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate AuditMind AI pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=auditmind-ai&theme=tokyonight&hide_border=true
+          path: profile/pin-auditmind.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Multi-Horizon Transformer pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting&theme=tokyonight&hide_border=true
+          path: profile/pin-transformer.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Text Sentiment pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Text-Sentiment-Classification-System&theme=tokyonight&hide_border=true
+          path: profile/pin-sentiment.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "update readme stat cards" || exit 0
+          git push
