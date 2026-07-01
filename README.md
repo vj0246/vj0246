@@ -1,10 +1,16 @@
+<div align="center">
+
 # Hey, I'm Vivaan! 👋
 
-[![Vivaan | LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg)](https://www.linkedin.com/in/vivaan-jain-398160279)
-[![Vivaan | Instagram](https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png)](https://instagram.com/vivaan.jainn)
-[![Vivaan | Medium](https://www.svgrepo.com/show/354024/medium-icon.svg)](https://medium.com/@vivaan.jain246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivaan-jain-398160279)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivaan-jain-portfolio.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vivaan.jain246)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vivaan.jainn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivaan.jain246@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vj0246)](https://github.com/vj0246)
+![Profile Views](https://komarev.com/ghpvc/?username=vj0246&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 Hi, I'm Vivaan Jain — a Data Science & AI/ML builder exploring **agentic systems**, **fintech/quant research**, and **GenAI/RAG**. I like almost every layer of the stack, from research papers down to shipped products. Currently a B.Tech Computer Engineering student (Honours, Data Science) at DJSCE Mumbai, and a Full-Stack Engineering Intern at Zeex AI.
 
@@ -52,7 +58,7 @@ Hi, I'm Vivaan Jain — a Data Science & AI/ML builder exploring **agentic syste
 
 ## 🔥 Contribution Snake
 
-![snake gif](https://github.com/vj0246/vj0246/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/vj0246/vj0246/output/github-contribution-grid-snake.svg)
 
 ---
 
