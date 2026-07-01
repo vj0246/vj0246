@@ -25,13 +25,13 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skill-icons.vercel.app/icons?i=python,cpp,c,java,mysql,tensorflow,pytorch,scikitlearn,huggingface,langchain,fastapi,nextjs,flask,supabase,postgres,docker,kubernetes,aws,vercel,git,githubactions,figma,latex,js&theme=dark)](https://skillicons.dev)
+<img src="https://skill-icons.vercel.app/icons?i=python,cpp,c,java,mysql,tensorflow,pytorch,scikitlearn,huggingface,langchain,fastapi,nextjs,flask,supabase,postgres,docker,kubernetes,aws,vercel,git,githubactions,figma,latex,js&theme=dark"/>
 
 ---
 
 ## 📅 3D Contribution Calendar
 
-[![3D Contribution Graph](https://github.com/vj0246/vj0246/raw/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/vj0246/vj0246/blob/main/profile-3d-contrib/profile-night-green.svg)
+<img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile-3d-contrib/profile-night-green.svg"/>
 
 ---
 
@@ -47,18 +47,12 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Multi-Horizon Transformer](https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting)** | Custom Transformer predicting Nifty 50 direction across 20 horizons, 18+ yrs of OHLCV, evaluated on Sharpe & IC | `TensorFlow` `FinBERT` `XGBoost` |
-| **[MindVault](https://github.com/vj0246/MindVault)** | Full-stack AI RAG app, retrieval, reranking, vector search | `FastAPI` `Next.js` `pgvector` `Groq` |
+| **[ApplyPilot AI](https://github.com/vj0246/ApplyPilot-AI)** | Autonomous job application agent on LangGraph, deployed on K8s | `LangGraph` `Kubernetes` |
+| **[MindVault](https://github.com/vj0246/MindVault)** | Full stack AI RAG app, retrieval, reranking, vector search | `FastAPI` `Next.js` `pgvector` `Groq` |
+| **[FinIntel](https://github.com/vj0246/nse-multi-agent-demo)** | Three agent finance system: HITL, ReAct chat, multi agent desk | `FastAPI` `React` `LangGraph` `Groq` |
 | **[AuditMind AI](https://github.com/vj0246/auditmind-ai)** | Multilingual audio intelligence pipeline, 13 Indian languages | `Whisper` `SpeechBrain` `Python` |
-| **[ApplyPilot AI](https://github.com/vj0246/ApplyPilot-AI)** | Autonomous job-application agent on LangGraph, deployed on K8s | `LangGraph` `Kubernetes` |
-| **[NSE Multi-Agent Demo](https://github.com/vj0246/nse-multi-agent-demo)** | Three-agent finance system: HITL, ReAct chat, multi-agent desk | `FastAPI` `React` `LangGraph` `Groq` |
+| **[Multi-Horizon Transformer](https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting)** | Custom Transformer predicting Nifty 50 direction across 20 horizons, 18+ yrs of OHLCV, evaluated on Sharpe & IC | `TensorFlow` `FinBERT` `XGBoost` |
 | **[Text Sentiment Classification](https://github.com/vj0246/Text-Sentiment-Classification-System)** | NLP sentiment classification pipeline | `Python` `scikit-learn` |
-
----
-
-## 🔥 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/vj0246/vj0246/output/github-contribution-grid-snake.svg)
 
 ---
 
