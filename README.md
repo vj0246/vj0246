@@ -49,15 +49,33 @@ Hi, I'm Vivaan Jain, an AI/ML researcher and engineer building production grade 
 
 <table>
 <tr>
-<td><a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg?v=5"/></a></td>
-<td><a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg?v=5"/></a></td>
+<td>
+<a href="https://github.com/vj0246/ApplyPilot-AI"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-applypilot.svg?v=5"/></a><br/>
+Autonomous job application agent built on LangGraph, deployed on Kubernetes.
+</td>
+<td>
+<a href="https://github.com/vj0246/MindVault"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-mindvault.svg?v=5"/></a><br/>
+Full stack AI RAG app with retrieval, reranking, and vector search.
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/vj0246/FinIntel"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=5"/></a></td>
-<td><a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg?v=5"/></a></td>
+<td>
+<a href="https://github.com/vj0246/FinIntel"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-financial.svg?v=5"/></a><br/>
+Three agent finance system: human in the loop task agent, ReAct chat agent, and multi agent desk over live NSE data.
+</td>
+<td>
+<a href="https://github.com/vj0246/auditmind-ai"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-auditmind.svg?v=5"/></a><br/>
+Multilingual audio intelligence pipeline across 13 Indian languages.
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg?v=5"/></a></td>
-<td><a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg?v=5"/></a></td>
+<td>
+<a href="https://github.com/vj0246/Multi-Horizon-Transformer-for-Systematic-Equity-Direction-Forecasting"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-transformer.svg?v=5"/></a><br/>
+Custom Transformer forecasting Nifty 50 direction across 20 horizons, evaluated on Sharpe and Information Coefficient.
+</td>
+<td>
+<a href="https://github.com/vj0246/Text-Sentiment-Classification-System"><img src="https://raw.githubusercontent.com/vj0246/vj0246/main/profile/pin-sentiment.svg?v=5"/></a><br/>
+NLP pipeline for text sentiment classification.
+</td>
 </tr>
 </table>
